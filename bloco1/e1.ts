@@ -1,5 +1,5 @@
 /*
-Área do circulo
+Área do circul
 */
 
 let pi : number;
