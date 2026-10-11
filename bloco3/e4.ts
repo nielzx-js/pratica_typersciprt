@@ -14,7 +14,7 @@ function calcularAmplitude(dados:Entrada){
     if(Array.isArray(dados)){
         let maior=Math.max(...dados)
         let menor=Math.min(...dados)
-        return maior + menor
+        return maior - menor
     }
     else{
         return 0
